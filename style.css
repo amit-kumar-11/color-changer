@@ -1,0 +1,47 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.canvas{
+  height: 100%;
+  width: 50%;
+  background-color: #fff;
+  padding: 10px 10px;
+  border-radius: 8px;
+  color: #212121;
+  text-decoration: none;
+  border: 2px solid #212121;
+}
+
+h1{
+  text-align: center;
+}
+.color{
+  display: flex;
+}
+
+.button{
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  border: 1px solid #212121;
+}
+#grey{
+  background-color: grey;
+}
+#white{
+  background-color: #fff;
+}
+#blue{
+  background-color: blue;
+}
+#yellow{
+  background-color: yellow;
+}
+#red{
+  background-color: red;
+}
+#purple{
+  background-color: purple;
+}
